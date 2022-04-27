@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\ilk proje\ilk proje\bin\Debug\ilk proje.exe.config
+C:\Users\dell\source\repos\ilk proje\ilk proje\bin\Debug\ilk proje.exe
+C:\Users\dell\source\repos\ilk proje\ilk proje\bin\Debug\ilk proje.pdb
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk proje.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk_proje.Form1.resources
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk_proje.Properties.Resources.resources
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk proje.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk proje.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk proje.exe
+C:\Users\dell\source\repos\ilk proje\ilk proje\obj\Debug\ilk proje.pdb
