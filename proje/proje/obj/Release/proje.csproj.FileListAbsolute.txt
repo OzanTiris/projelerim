@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\proje\proje\bin\Release\proje.exe.config
+C:\Users\dell\source\repos\proje\proje\bin\Release\proje.exe
+C:\Users\dell\source\repos\proje\proje\bin\Release\proje.pdb
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.Form1.resources
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.Form2.resources
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.Properties.Resources.resources
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.exe
+C:\Users\dell\source\repos\proje\proje\obj\Release\proje.pdb
