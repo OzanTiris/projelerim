@@ -1,0 +1,11 @@
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\bin\Debug\sınav_2.dönem.exe.config
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\bin\Debug\sınav_2.dönem.exe
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\bin\Debug\sınav_2.dönem.pdb
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav 2. dönem.csproj.AssemblyReference.cache
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav_2.dönem.Form1.resources
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav_2.dönem.Properties.Resources.resources
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav 2. dönem.csproj.GenerateResource.cache
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav 2. dönem.csproj.CoreCompileInputs.cache
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav_2.dönem.exe
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav_2.dönem.pdb
+C:\Users\Ozan2\source\repos\sınav 2. dönem\sınav 2. dönem\obj\Debug\sınav 2. dönem.csproj.SuggestedBindingRedirects.cache
