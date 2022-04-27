@@ -1,0 +1,10 @@
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\bin\Debug\formm 5 quizz 2.exe.config
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\bin\Debug\formm 5 quizz 2.exe
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\bin\Debug\formm 5 quizz 2.pdb
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm 5 quizz 2.csproj.AssemblyReference.cache
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm_5_quizz_2.Form1.resources
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm_5_quizz_2.Properties.Resources.resources
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm 5 quizz 2.csproj.GenerateResource.cache
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm 5 quizz 2.csproj.CoreCompileInputs.cache
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm 5 quizz 2.exe
+C:\Users\Ozan2\source\repos\formm 5 quizz 2\formm 5 quizz 2\obj\Debug\formm 5 quizz 2.pdb
