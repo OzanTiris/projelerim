@@ -1,0 +1,21 @@
+C:\Users\dell\source\repos\book proje\book proje\bin\Debug\book proje.exe.config
+C:\Users\dell\source\repos\book proje\book proje\bin\Debug\book proje.exe
+C:\Users\dell\source\repos\book proje\book proje\bin\Debug\book proje.pdb
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book proje.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book_proje.Form1.resources
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book_proje.Properties.Resources.resources
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book proje.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book proje.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book proje.exe
+C:\Users\dell\source\repos\book proje\book proje\obj\Debug\book proje.pdb
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\bin\Debug\book proje.exe.config
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\bin\Debug\book proje.exe
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\bin\Debug\book proje.pdb
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book proje.csproj.AssemblyReference.cache
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book_proje.Form1.resources
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book_proje.Properties.Resources.resources
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book proje.csproj.GenerateResource.cache
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book proje.csproj.CoreCompileInputs.cache
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book proje.exe
+C:\Users\Ozan2\source\repos\book proje-20220405T115625Z-001\book proje\book proje\obj\Debug\book proje.pdb
