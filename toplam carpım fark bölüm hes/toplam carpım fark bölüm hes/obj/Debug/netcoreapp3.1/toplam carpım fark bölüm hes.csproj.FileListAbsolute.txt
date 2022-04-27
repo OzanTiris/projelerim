@@ -1,0 +1,13 @@
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\bin\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.exe
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\bin\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.deps.json
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\bin\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.runtimeconfig.json
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\bin\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.runtimeconfig.dev.json
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\bin\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.dll
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\bin\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.pdb
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.AssemblyInfoInputs.cache
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.AssemblyInfo.cs
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.csproj.CoreCompileInputs.cache
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.dll
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.pdb
+C:\Users\Ozan2\source\repos\toplam carpım fark bölüm hes\toplam carpım fark bölüm hes\obj\Debug\netcoreapp3.1\toplam carpım fark bölüm hes.genruntimeconfig.cache
