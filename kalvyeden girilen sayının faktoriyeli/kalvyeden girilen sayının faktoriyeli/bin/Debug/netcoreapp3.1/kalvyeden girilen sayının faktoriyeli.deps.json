@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kalvyeden girilen sayının faktoriyeli/1.0.0": {
+        "runtime": {
+          "kalvyeden girilen sayının faktoriyeli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kalvyeden girilen sayının faktoriyeli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

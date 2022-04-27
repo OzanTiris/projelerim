@@ -1,0 +1,14 @@
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.csproj.AssemblyReference.cache
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.AssemblyInfoInputs.cache
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.AssemblyInfo.cs
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.csproj.CoreCompileInputs.cache
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\bin\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.exe
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\bin\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.deps.json
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\bin\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.runtimeconfig.json
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\bin\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.runtimeconfig.dev.json
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\bin\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.dll
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\bin\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.pdb
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.dll
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.pdb
+C:\Users\Ozan2\source\repos\kalvyeden girilen sayının faktoriyeli\kalvyeden girilen sayının faktoriyeli\obj\Debug\netcoreapp3.1\kalvyeden girilen sayının faktoriyeli.genruntimeconfig.cache
