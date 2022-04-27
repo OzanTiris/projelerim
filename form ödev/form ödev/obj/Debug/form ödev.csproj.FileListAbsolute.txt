@@ -1,0 +1,11 @@
+C:\Users\Ozan2\source\repos\form ödev\form ödev\bin\Debug\form ödev.exe.config
+C:\Users\Ozan2\source\repos\form ödev\form ödev\bin\Debug\form ödev.exe
+C:\Users\Ozan2\source\repos\form ödev\form ödev\bin\Debug\form ödev.pdb
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form ödev.csproj.AssemblyReference.cache
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form_ödev.Form1.resources
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form_ödev.Properties.Resources.resources
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form ödev.csproj.GenerateResource.cache
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form ödev.csproj.CoreCompileInputs.cache
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form ödev.exe
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form ödev.pdb
+C:\Users\Ozan2\source\repos\form ödev\form ödev\obj\Debug\form ödev.csproj.SuggestedBindingRedirects.cache
