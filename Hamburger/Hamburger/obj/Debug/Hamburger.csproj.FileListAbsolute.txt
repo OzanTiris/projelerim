@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Hamburger\Hamburger\bin\Debug\Hamburger.exe.config
+C:\Users\dell\source\repos\Hamburger\Hamburger\bin\Debug\Hamburger.exe
+C:\Users\dell\source\repos\Hamburger\Hamburger\bin\Debug\Hamburger.pdb
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.Form1.resources
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.Properties.Resources.resources
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.exe
+C:\Users\dell\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.pdb
